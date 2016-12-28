@@ -1,0 +1,16 @@
+{
+  "name": "sass-to-injectable-script",
+  "author": "Adiel Amzallag <idealamz@gmail.com>",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/node-glob.git"
+  },
+  "main": "index.js",
+  "license" : "MIT",
+  "dependencies": {
+    "glob-fs": "^0.1.6",
+    "clean-css": "^3.4.23",
+    "node-sass": "^4.1.1"
+  }
+}
