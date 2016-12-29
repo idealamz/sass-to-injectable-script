@@ -10,7 +10,6 @@
   "license" : "MIT",
   "dependencies": {
     "glob-fs": "^0.1.6",
-    "clean-css": "^3.4.23",
     "node-sass": "^4.1.1"
   }
 }
